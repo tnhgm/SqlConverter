@@ -1,0 +1,17 @@
+This project is derived from the "SQL Server to SQLite Converter" originally published on CodeProject
+(https://www.codeproject.com/articles/19165/sql-server-to-sqlite-converter) by gusmando and contributors,
+and from the fork https://github.com/xmikedanielsx/MSSQLToSQLite.
+
+The original code is licensed under the Code Project Open License (CPOL) 1.02:
+https://www.codeproject.com/info/cpol10.aspx
+
+This modified edition is therefore distributed under the Code Project Open License (CPOL) 1.02 as well.
+
+Copyright (c) 2008 gusmando & contributors
+Copyright (c) 2023 xmikedanielsx
+Copyright (c) 2026 Type-Faithful Edition contributors
+
+Summary of CPOL 1.02 (non-authoritative; the full text at the URL above governs):
+- You may use, copy, modify and distribute this source code and compiled versions, including commercially.
+- If you distribute the source code, you must keep this notice, the original copyright and the CPOL license reference.
+- The work is provided "AS IS", without warranty of any kind. The authors are not liable for anything.
